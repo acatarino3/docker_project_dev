@@ -10,4 +10,4 @@ docker-compose.yaml has service for reactjs app and postgresql
 
 container name is reactapp
 
-# RUN VIA docker-compose up inside the root directory
+# RUN VIA 'docker-compose' up inside the root directory
